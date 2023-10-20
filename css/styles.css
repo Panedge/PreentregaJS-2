@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.body__fake{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+img{
+    width: 5rem;
+    height: 5rem;
+}
